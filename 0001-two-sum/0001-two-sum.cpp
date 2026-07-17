@@ -1,18 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int sz = nums.size();
-        vector<int> ans;
+        int n = nums.size();
 
-        for (int i = 0; i < sz - 1; i++) {
-            for (int j = i + 1; j < sz; j++) {
-                if (nums[i] + nums[j] == target) {
-                    ans.push_back(i);
-                    ans.push_back(j);
-                    return ans;
+        for (int left = 0; left < n - 1; left++) {
+            //int ans = target - nums[left];
+            for (int right = 1; right < n; right++) {
+                if(left == right) {
+                    right++;
+                }
+                if (nums[left] + nums[right] == target) {
+                    return {left, right};
                 }
             }
         }
-        return {-1, -1};
+        return {};
     }
 };

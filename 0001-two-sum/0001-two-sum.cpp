@@ -1,19 +1,19 @@
+// sol method :
+// using haseing.
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
 
-        for (int left = 0; left < n - 1; left++) {
+        unordered_map<int, int> seen; // creating map to search complement
 
-            for (int right = 1; right < n; right++) {
+        for (int i = 0; i < nums.size(); i++) {
+            int complement = target - nums[i];
 
-                if (left == right) { // same index elements not allowed
-                    right++;
-                }
-                if (nums[left] + nums[right] == target) {
-                    return {left, right};
-                }
+            if (seen.find(complement) != seen.end()) {
+                return {seen[complement], i};
             }
+
+            seen[nums[i]] = i;
         }
         return {};
     }

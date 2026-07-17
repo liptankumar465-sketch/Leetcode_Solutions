@@ -4,9 +4,10 @@ public:
         int n = nums.size();
 
         for (int left = 0; left < n - 1; left++) {
-            //int ans = target - nums[left];
+
             for (int right = 1; right < n; right++) {
-                if(left == right) {
+
+                if (left == right) { // same index elements not allowed
                     right++;
                 }
                 if (nums[left] + nums[right] == target) {

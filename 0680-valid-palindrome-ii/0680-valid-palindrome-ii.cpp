@@ -1,5 +1,5 @@
 class Solution {
-
+// create supperPower.
 public:
     bool palindromeOrNot(int left, int right, string s) {
         while (left < right) {

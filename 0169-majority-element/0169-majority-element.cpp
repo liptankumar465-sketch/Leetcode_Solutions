@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+
         int sz = nums.size();
         int maj_size = sz / 2;
 

@@ -84,4 +84,8 @@
 | [0125-valid-palindrome](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

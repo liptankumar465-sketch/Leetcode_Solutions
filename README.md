@@ -85,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -100,4 +101,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

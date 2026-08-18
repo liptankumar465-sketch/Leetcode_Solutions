@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |

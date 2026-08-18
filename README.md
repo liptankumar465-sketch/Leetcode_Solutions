@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0162-find-peak-element) |
@@ -31,6 +32,7 @@
 | [0011-container-with-most-water](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -111,4 +114,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

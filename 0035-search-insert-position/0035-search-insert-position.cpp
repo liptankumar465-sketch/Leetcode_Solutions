@@ -18,5 +18,16 @@ public:
         }
 
         return result;
+
+        // //--------brut force---------//
+        // int result = nums.size();
+        // for (int i = 0; i < nums.size(); i++) {
+        //     if (nums[i] >= target) {
+        //         result = i;
+        //         break;
+        //     }
+        // }
+
+        // return result;
     }
 };

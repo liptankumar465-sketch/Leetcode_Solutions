@@ -5,7 +5,7 @@ public:
         int ans = -1;
 
         if (x < 2) return x;
-        
+
         while (lo <= hi) {
             int mid = lo + (hi - lo) / 2;
             if (mid == x / mid)
@@ -18,5 +18,20 @@ public:
         }
 
         return ans;
+
+        // //-----------brute force-------------//
+        // int ans = 0;
+        // if (x < 2)
+        //     return x;
+
+        // for (int i = 1; i <= x / 2; i++) {
+        //     if (i == x / i) {
+        //         return i;
+        //     }
+        //     if (i > x / i)
+        //         return i - 1;
+        // }
+
+        // return ans;
     }
 };

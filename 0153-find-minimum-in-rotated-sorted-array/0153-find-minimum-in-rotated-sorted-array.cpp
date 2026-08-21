@@ -4,8 +4,8 @@ public:
         int lo = 0, hi = nums.size() - 1;
         int ans = nums[0];
         // if arr is allredy sorted
-        if (nums[0] < nums[hi])
-        return ans;
+        // if (nums[0] < nums[hi])
+        // return ans;
 
         while (lo <= hi) {
             int mid = lo + (hi - lo) / 2;

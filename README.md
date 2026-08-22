@@ -23,6 +23,7 @@
 | [0605-can-place-flowers](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |

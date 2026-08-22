@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |

@@ -5,13 +5,15 @@ public:
 
         /*
             1 2 3 3 4 -> 1 2 3 4
-              i
-              j
+                    i
+                  4 j
+            ---------
+        ans 1 2 3 4
         */
 
         int j = 1;
-        for(int i= 1;i<nums.size();i++){
-            if (nums[i] !=nums[i-1]){
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] != nums[i - 1]) {
                 nums[j] = nums[i];
                 j++;
             }
@@ -19,7 +21,6 @@ public:
 
         return j;
 
-        
         // int n = nums.size();
         // int left = 0;
         // int right = 1;

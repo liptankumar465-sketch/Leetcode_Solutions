@@ -10,19 +10,30 @@ class Solution {
     //          }
     //      }
     //  }
+    // return false;
+    //-------------------------------------------------
+    //   sort(nums.begin(), nums.end()); // sort the nums
+    // 1 1 2 3
+    // i j
+    // i == j duplicate are present
+
+    // for (int i = 0; i < nums.size() - 1; i++) {
+    //     if (nums[i] == nums[i + 1]) {
+    //         return true;
+    //     }
+    // }
 
     // return false;
 public:
     bool containsDuplicate(vector<int>& nums) {
-        sort(nums.begin(), nums.end()); // sort the nums
-        // 1 1 2 3
-        // i j
-        // i == j duplicate are present
-
-        for (int i = 0; i < nums.size() - 1; i++) {
-            if (nums[i] == nums[i + 1]) {
+        set<int> seen; // cerate a set for stores elements
+        // seen<{1 2 3 1}> if any ele appare more than one return true;
+        for (int num : nums) {
+            if (seen.contains(num)) {
                 return true;
             }
+
+            seen.insert(num);
         }
 
         return false;

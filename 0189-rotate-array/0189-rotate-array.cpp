@@ -18,7 +18,7 @@ public:
         //   xr     yr
 
         int n = nums.size();
-        if (k % n == 0) { // if k fully divid by n than nothing to do
+        if (k % n == 0) { // if n fully divid by k than nothing to do
             return;
         }
 

@@ -14,7 +14,7 @@ class Solution {
     //-------------------------------------------------
     //   sort(nums.begin(), nums.end()); // sort the nums
     // 1 1 2 3
-    // i j
+    // i j   // i = 0, j = i + 1
     // i == j duplicate are present
 
     // for (int i = 0; i < nums.size() - 1; i++) {
@@ -26,8 +26,8 @@ class Solution {
     // return false;
 public:
     bool containsDuplicate(vector<int>& nums) {
-        set<int> seen; // cerate a set for stores elements
         // seen<{1 2 3 1}> if any ele appare more than one return true;
+        set<int> seen; // cerate a set for stores elements
         for (int num : nums) {
             if (seen.contains(num)) {
                 return true;

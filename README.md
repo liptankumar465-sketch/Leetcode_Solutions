@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@
 | [0075-sort-colors](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Stack
 |  |

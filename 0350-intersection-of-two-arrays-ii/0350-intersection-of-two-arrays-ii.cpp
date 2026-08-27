@@ -1,9 +1,12 @@
 class Solution {
     // [1 2 2 1]
     // [2 2]
-    // map nums1 => <{1:2}{2:2}>
-    // map nums2 => <{2:2}>
-    // res = [2,2] becouse freq of 2 is 2 in both maps
+    // ---sort first------
+    // [1 1 2 2]
+    //        i
+    // [2 2]
+    //    j
+    // res => [2 2] becouse of [i] and [j] are 2 times equal
 
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
@@ -24,21 +27,5 @@ public:
             }
         }
         return res;
-        // unordered_map<int, int> freq1; // nums1 freq
-        // unordered_map<int, int> freq2; // nums2 freq
-
-        // for (int num : nums1) { // put nums1 freq
-        //     freq1[num]++;
-        // }
-
-        // for (int num : nums2) { // put nums2 freq
-        //     freq2[num]++;
-        // }
-
-        // vector<int> res;
-        // for (const auto& comman : freq1) {
-        //     if ()
-        // }
-        // return res;
     }
 };

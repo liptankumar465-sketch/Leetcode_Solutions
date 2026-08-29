@@ -5,7 +5,10 @@ public:
         //           i=m-1 k=m+n-1      j=n-1
         // n1 = [1 2 3 0 0 6] n2 = [2 5 6]
         //           i   k            j
-        int i = m - 1, j = n - 1, k = m + n -1;
+        int i = m - 1;     // last valid element in nums1
+        int j = n - 1;     // last element in nums2
+        int k = m + n - 1; // last position in merged nums1
+
         while (i >= 0 && j >= 0) {
             if (nums1[i] > nums2[j]) {
                 nums1[k--] = nums1[i--];
@@ -14,8 +17,10 @@ public:
             }
         }
 
+        // If nums2 still has leftover elements, copy them
         while (j >= 0) {
             nums1[k--] = nums2[j--];
         }
+        // No need to copy leftover nums1 elements — already in place
     }
 };

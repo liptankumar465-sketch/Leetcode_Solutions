@@ -17,6 +17,9 @@ class Solution {
     // return -1;
 public:
     int majorityElement(vector<int>& nums) {
+        //  nums:- [2 2 1 1 1 2 2],  size = 7
+        //  map:- <{2:4},{1:3}>
+        //  majority elem are 2
         unordered_map<int, int> freq;
 
         for (int num : nums) {

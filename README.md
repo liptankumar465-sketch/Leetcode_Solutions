@@ -36,6 +36,7 @@
 | [1539-kth-missing-positive-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | [0069-sqrtx](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |

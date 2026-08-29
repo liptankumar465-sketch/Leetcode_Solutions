@@ -153,6 +153,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -186,4 +187,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

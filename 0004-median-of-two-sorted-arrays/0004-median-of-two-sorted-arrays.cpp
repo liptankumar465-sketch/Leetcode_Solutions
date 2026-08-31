@@ -1,4 +1,5 @@
 class Solution {
+    // function for marge two sorted arr
     vector<int> margeArray(vector<int>& nums1, vector<int>& nums2) {
         int n1 = nums1.size(), n2 = nums2.size();
         vector<int> result;
@@ -25,16 +26,18 @@ class Solution {
 
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        // call the marge function
         vector<int> res = margeArray(nums1, nums2);
-        // find mid
-        int n = res.size();
+        int n = res.size(); // total elements in marge sorted arr
 
+        // if total ele no is odd then
         if (n % 2 == 1) {
-            return static_cast<double>(res[n / 2]);
+            return static_cast<double>(res[n / 2]); // direct return mid idx ele
         }
 
-        int mid1 = res[n/2];
-        int mid2 = res[n/2 - 1];
+        // if total ele no is even then
+        int mid1 = res[n/2]; // find mid idx ele
+        int mid2 = res[n/2 - 1]; // find mid - 1 idx ele
 
         return (static_cast<double>(mid1) + static_cast<double>(mid2) )/ 2;
     }

@@ -11,29 +11,29 @@ public:
         ans 1 2 3 4
         */
 
-        int j = 1;
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] != nums[i - 1]) {
-                nums[j] = nums[i];
-                j++;
-            }
-        }
-
-        return j;
-
-        // int n = nums.size();
-        // int left = 0;
-        // int right = 1;
-
-        // while (right < n) {
-
-        //     if (nums[left] != nums[right]) {
-        //         left++;
-        //         nums[left] = nums[right];
+        // int j = 1;
+        // for (int i = 1; i < nums.size(); i++) {
+        //     if (nums[i] != nums[i - 1]) {
+        //         nums[j] = nums[i];
+        //         j++;
         //     }
-        //     right++;
         // }
 
-        // return left + 1;
+        // return j;
+
+        int n = nums.size();
+        int left = 0;
+        int right = 1;
+
+        while (right < n) {
+
+            if (nums[left] != nums[right]) {
+                left++;
+                nums[left] = nums[right];
+            }
+            right++;
+        }
+
+        return left + 1;
     }
 };

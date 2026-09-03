@@ -143,6 +143,7 @@
 | [0125-valid-palindrome](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
@@ -198,4 +199,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0050-powx-n) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

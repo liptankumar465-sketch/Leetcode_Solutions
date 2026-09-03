@@ -165,6 +165,7 @@
 | [0069-sqrtx](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

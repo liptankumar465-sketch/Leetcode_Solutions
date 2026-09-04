@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -49,6 +50,7 @@
 | [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +98,7 @@
 | [0088-merge-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +131,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -169,6 +174,7 @@
 | [0069-sqrtx](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |

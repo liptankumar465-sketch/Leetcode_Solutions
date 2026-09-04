@@ -169,6 +169,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |

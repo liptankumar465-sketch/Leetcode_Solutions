@@ -7,15 +7,25 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
 
-        int n = nums.size();
-        int numsSum = 0;
-        int actualSum = 0;
+        // int n = nums.size();
+        // int numsSum = 0;
+        // int actualSum = 0;
 
-        for (int i = 0; i < n; i++) {
-            numsSum += nums[i];
-            actualSum += i + 1;
+        // for (int i = 0; i < n; i++) {
+        //     numsSum += nums[i];
+        //     actualSum += i + 1;
+        // }
+
+        // return actualSum - numsSum;
+
+        //--------brute force--------//
+        int n =nums.size();
+        int missing = 0;
+        for(int i=0;i<n;i++){
+            missing ^= nums[i];
+            missing ^= i+1;
         }
 
-        return actualSum - numsSum;
+        return missing;
     }
 };

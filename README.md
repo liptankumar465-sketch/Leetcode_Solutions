@@ -39,6 +39,7 @@
 | [1539-kth-missing-positive-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -136,6 +137,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |

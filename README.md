@@ -53,6 +53,7 @@
 | [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@
 | ------- |
 | [0136-single-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [2351-first-letter-to-appear-twice](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
+| [2351-first-letter-to-appear-twice](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

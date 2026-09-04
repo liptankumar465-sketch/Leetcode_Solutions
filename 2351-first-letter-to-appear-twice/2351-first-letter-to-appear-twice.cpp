@@ -15,6 +15,6 @@ public:
             set.insert(ch);
         }
 
-        return 'a';
+        return ' ';
     }
 };

@@ -5,8 +5,8 @@ public:
         int sum = 0;  // store the digits sum
 
         while(temp != 0){
-            sum += temp % 10;
-            temp /= 10;
+            sum += temp % 10; // add last digit in sum
+            temp /= 10; // remove last digit in temp
         }
         // if x is divisible by sum means integer is harshad no
         if(x % sum == 0) return sum;

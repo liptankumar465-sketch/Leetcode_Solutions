@@ -7,25 +7,30 @@ class Solution {
     // sort(nums.begin(), nums.end());
 
     // return nums;
+
+    //--------dry run------------//
+    // nums = -4, -1, 0, 3, 10, len = 5
+    //         i  i   j/ij   j
+    // res = [ ,1 ,9, 16, 100], len = 5
+    //        k  k  k   k    k
+    // 1. abs[j] > abs[i], k = abs[j], j--, k--
+    // 2. abs[i] > abs[j], k = abs[i], i++, k--
+    // 3. abs[j] > abs[i], k = abs[j], j--, k--
+    // 4. abs[i] > abs[j], k = abs[i], i++, k--
+    // 5. abs[i] == abs[j], k = abs[i], retrun
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        int n = nums.size();
-        int l = 0, r = n - 1;
+        int i = 0;
+        int j = nums.size() - 1;
+        vector<int> result(nums.size());
 
-        vector<int> result(n);
-        int i = n - 1;
-
-        while (l <= r) {
-            int left_val = nums[l] * nums[l];
-            int right_val = nums[r] * nums[r];
-            if (left_val > right_val) {
-                result[i] = left_val;
-                l++;
-                i--;
+        for (int k = nums.size() - 1; k >= 0; k--) {
+            if (abs(nums[i]) > abs(nums[j])) {
+                result[k] = nums[i] * nums[i];
+                i++;
             } else {
-                result[i] = right_val;
-                r--;
-                i--;
+                result[k] = nums[j] * nums[j];
+                j--;
             }
         }
 

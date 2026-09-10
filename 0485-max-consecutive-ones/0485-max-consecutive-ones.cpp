@@ -13,7 +13,7 @@ public:
             else
                 count = 0;
 
-         maxCount = max (maxCount, count);
+            maxCount = max(maxCount, count);
         }
 
         return maxCount;

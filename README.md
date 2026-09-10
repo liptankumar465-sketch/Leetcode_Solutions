@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |

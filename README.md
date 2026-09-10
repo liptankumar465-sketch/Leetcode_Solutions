@@ -36,6 +36,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -183,6 +184,7 @@
 | [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |

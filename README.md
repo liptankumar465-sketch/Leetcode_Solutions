@@ -37,6 +37,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |

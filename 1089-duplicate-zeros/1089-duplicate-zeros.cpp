@@ -17,10 +17,8 @@ public:
             j++;
         }
 
-        int k = 0;
         for (int i = n; i < 2 * n; i++) {
-            arr[k] = result[i];
-            k++;
+            arr[i-n] = result[i];
         }
     }
 };

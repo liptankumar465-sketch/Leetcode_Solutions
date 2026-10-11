@@ -100,6 +100,7 @@
 | [0136-single-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -192,6 +193,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |

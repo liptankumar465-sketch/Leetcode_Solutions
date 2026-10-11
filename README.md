@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |

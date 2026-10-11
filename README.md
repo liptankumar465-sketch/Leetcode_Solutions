@@ -59,6 +59,7 @@
 | [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2965-find-missing-and-repeated-values](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -100,6 +101,7 @@
 | [0136-single-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -113,6 +115,7 @@
 | [0268-missing-number](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -165,6 +168,7 @@
 | [0020-valid-parentheses](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/liptankumar465-sketch/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
